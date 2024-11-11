@@ -15,9 +15,15 @@ sections:
     backgroundSize: full
     title: LSH Coding Club
     subtitle: >-
-      This is my info—I’m sharing it all this with ya’ll to impress you with all
-      the hard work I’ve done in the past few years. Once you’re impressed, you
-      can continue to scroll down to see more details and credentials about me.
+      Are you passionate about coding or looking to level up your programming
+      skills? You've come to the right place! Our LSH Coding Club is a community
+      of learners, creators, and innovators who come together to explore the
+      exciting world of coding. Whether you're just starting or a seasoned
+      coder, we offer a supportive environment where you can collaborate, learn,
+      and grow.  Join us as we dive into hands-on projects, share knowledge, and
+      unlock new possibilities in the ever-evolving world of code. Let's build
+      something great, together! Feel free to explore our resources, get
+      involved in discussions, and start coding!
     styles:
       self:
         height: auto
