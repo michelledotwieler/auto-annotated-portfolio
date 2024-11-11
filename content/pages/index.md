@@ -13,7 +13,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: LSH Coding Club - change test
+    title: LSH Coding Club
     subtitle: >-
       Are you passionate about coding or looking to level up your programming
       skills? You've come to the right place! Our LSH Coding Club is a community
