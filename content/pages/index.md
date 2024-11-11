@@ -23,7 +23,7 @@ sections:
       and grow.  Join us as we dive into hands-on projects, share knowledge, and
       unlock new possibilities in the ever-evolving world of code. Let's build
       something great, together! Feel free to explore our resources, get
-      involved in discussions, and start coding! test
+      involved in discussions, and start coding!
     styles:
       self:
         height: auto
